@@ -1,0 +1,6 @@
+fastapi==0.95.1
+uvicorn==0.23.2
+pymongo==4.6.0
+PyMuPDF==1.22.5
+ebooklib==0.18
+mobi==0.6.0
