@@ -59,31 +59,27 @@ Kkindle/
 ## Passos para Configuração
 
 1. Clone o Repositório
-
-  bash
-```
+  
+```bash
     git clone https://github.com/alemao1305/Kkindle.git
     cd Kkindle
 ```
 2. **Configuração do Backend**
 
 - Navegue até o diretório backend:
-
-    bash
-    ```
+  
+    ```bash
     cd backend
     ```
 - Crie um ambiente virtual (opcional, mas recomendado):
-
-    bash
-    ```
+   
+    ```bash
     python -m venv venv
     source venv/bin/activate  # No Windows use: venv\Scripts\activate
     ```
 - Instale as dependências:
-
-    bash
-    ```
+  
+    ```bash
     pip install -r requirements.txt
     ```
 - Configure o MongoDB:
@@ -92,23 +88,20 @@ Kkindle/
   - Atualize as configurações de conexão em mongodb_config.py se necessário.
 
   - Execute o servidor FastAPI:
-
-    bash
-    ```
+  
+    ```bash
     uvicorn app:app --reload
     ```
 3. Configuração do Frontend (Flutter)
 
 - Navegue até o diretório frontend:
-
-    bash
-    ```
+    
+    ```bash
     cd ../frontend
     ```
 - Execute o aplicativo Flutter:
-
-    bash
-    ```
+   
+    ```bash
         flutter run
     ```
 # Uso
@@ -134,9 +127,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou enviar um e-mail para [olintoguarujas2@gmail.com].
 
-markdown
 
-```
+```markdown
 ### Instruções Adicionais
 
 1. **Substitua** as seções específicas (como o e-mail) com as informações reais do projeto.
