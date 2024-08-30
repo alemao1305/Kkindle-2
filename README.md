@@ -111,12 +111,12 @@ Kkindle/
     ```
         flutter run
     ```
-#Uso
+# Uso
 
  - Backend: A API estará disponível em http://127.0.0.1:8000.
  - Frontend: O aplicativo Flutter será executado no dispositivo ou emulador configurado.
 
-#Contribuições
+# Contribuições
 
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
@@ -126,11 +126,11 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 4.  Faça push para a branch: git push origin feature/nome-da-sua-feature.
 5.  Abra um Pull Request.
 
-#Licença
+# Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-#Contato
+# Contato
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou enviar um e-mail para [olintoguarujas2@gmail.com].
 
