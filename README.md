@@ -113,7 +113,7 @@ Kkindle/
     ```
 # Uso
 
- - Backend: A API estará disponível em http://127.0.0.1:8000.
+ - Backend: A API estará disponível em http://127.0.0.1:8000. ( **isso para testes** )
  - Frontend: O aplicativo Flutter será executado no dispositivo ou emulador configurado.
 
 # Contribuições
